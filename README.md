@@ -1,4 +1,4 @@
-
+![logp](https://user-images.githubusercontent.com/71736979/109230190-4ce8b780-7779-11eb-8c5f-933a95b8b601.PNG)
 # Tecnologico  Nacional de México 
 # Instituto tecnológico de Tijuana 
 # Departamento de sistemas y computación
