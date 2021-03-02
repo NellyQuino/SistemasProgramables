@@ -1,0 +1,41 @@
+# :trophy: C0.1 Reto en clase
+
+Conformación de los equipos por integrantes.
+___
+
+## Instrucciones
+
+- Los alumnos deberá conformar los equipos de trabajo, los cuales deberán darle un nombre para ser identificados.
+- Se deberá realizar un listado indicando el nombre del equipo, numero de control, nombre completo asi como 3 fortalezas y 3 debilidades que considere dentro del campo de la tecnología relacionado con los temas que el asesor indica como requisitos para el desarrollo de la materia.
+- Toda actividad o reto se deberá realizar utilizando el estilo **MarkDown con extension .md** y el entorno de desarrollo VSCode, debiendo ser elaborado como un documento **single page**, es decir si el documento cuanta con imágenes, enlaces o cualquier documento externo debe ser accedido desde etiquetas y enlaces, y debe ser nombrado con la nomenclatura **C0.1_TituloActividad_NombreAlumno.pdf.**
+- Desde el archivo **.md** exporte un archivo **.pdf** que deberá subirse a classroom dentro de su apartado correspondiente, sirviendo como evidencia de su entrega, ya que siendo la plataforma **oficial** aquí se recibirá la calificación de su actividad.
+- Considerando que el archivo .PDF, el cual fue obtenido desde archivo .MD, ambos deben ser idénticos.
+  
+```
+| readme.md
+| | blog
+| | | C0.1_TituloActividad.md
+| | | C0.2_TituloActividad.md
+| | | C0.3_TituloActividad.md
+| | img
+| | docs
+| | | A0.1_TituloActividad.md
+| | | A0.2_TituloActividad.md
+```
+
+___
+# C0.1 Integrar equipos de trabajo
+### :pencil2: Desarrollo
+
+1. Registrar el siguiente formato con los datos solicitados:
+
+**Nombre del equipo**: Parvada 
+
+Numero de control | Nombre del integrante | 3 fortalezas tecnológicas | 3 debilidades tecnológicas
+:-: | :-- | :-- |:--
+16212019| José Antonio Guzmán Lugo  | 1) VSCode. 2) HTML y CSS. 3) JavaScript. | 1) Electrónica. 2) Arduino. 3) Rebajas.
+16212090 | Francisco Javier Villarreal Félix  | 1) HTML. 2) Arduino. 3) C ++. | 1) CSS. 2) Git, 3) Markdown.
+16212007 | Michelle Ivan Gasca Olvera  | 1) HTML y CSS. 2) VSCode. 3) Javascript.| 1) Arduino y C ++. 2) Electrónica. 3) Git.
+17212175 | Nelly Jazmín Quino Hernández  | 1) VScode. 2) html. 3) Arduino | 1) Rebajas. 2) github. 3) javascrip.
+
+:house: [Enlace a mi GitHub](../docs/D0_Introduccion.md)
