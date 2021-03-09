@@ -10,7 +10,7 @@
 ## Jaime Leonardo Enríquez Álvarez
 
 
-#*Contenido:* 
+#Contenido: 
 ## Unidad 1
 
 * :memo: [C0.1 Integrar equipos de trabajo](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C0.1_Integrar_equipos_de_trabajo_NellyQuino.md)
