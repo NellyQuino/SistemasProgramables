@@ -17,4 +17,4 @@
 * :memo: [C1.1 Cuestionario electrónica básica y sus elementos](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.1%20Cuestionario%20electr%C3%B3nica%20b%C3%A1sica%20y%20sus%20elementos_NellyJazm%C3%ADnQuinoHern%C3%A1ndez.md)
 * :memo:  [C1.2 Circuito electrónico básico](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.2_Circuito_electronico_basico_NellyQuino.md)
 * :memo:  [C1.3 Circuito electrónico divisor de tensión](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.3_Circuito_electronico_divisor_de_tension_NellyQuino.md)
-* :memo:  [A1.2. Sensor FotoResistivo](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.3_Circuito_electronico_divisor_de_tension_NellyQuino.md)
+* :memo:  [A1.2. Sensor FotoResistivo](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A1.2_NellyQuino_Parvada.md)
