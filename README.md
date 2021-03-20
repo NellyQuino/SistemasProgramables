@@ -18,5 +18,5 @@
 * :memo:  [C1.2 Circuito electrónico básico](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.2_Circuito_electronico_basico_NellyQuino.md)
 * :memo:  [C1.3 Circuito electrónico divisor de tensión](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.3_Circuito_electronico_divisor_de_tension_NellyQuino.md)
 * :memo:  [A1.2. Sensor FotoResistivo](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A1.2_NellyQuino_Parvada.md)
-* :memo:  [C1.4 Circuito electrónico para el acondicionamiento de señal con un amplificador operacional](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A1.2_NellyQuino_Parvada.md)
+* :memo:  [C1.4 Circuito electrónico para el acondicionamiento de señal con un amplificador operacional](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C14_Circuito_electronico_para_el%20_acondicionamiento_de_se%C3%B1al_con_un_amplificador_operacional_NellyQuino.md)
 
