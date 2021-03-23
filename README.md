@@ -20,5 +20,5 @@ Jaime Leonardo Enríquez Álvarez
 * :memo:  [C1.3 Circuito electrónico divisor de tensión](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.3_Circuito_electronico_divisor_de_tension_NellyQuino.md)
 * :memo:  [A1.2. Sensor FotoResistivo](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A1.2_NellyQuino_Parvada.md)
 * :memo:  [C1.4 Circuito electrónico para el acondicionamiento de señal con un amplificador operacional](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.4_Acondicionador_de_senal_AmOP_NellyQuino.md)
-* :memo:  [C1.5 Tipo de sensores de acuerdo con su uso aplicativo](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.4_Acondicionador_de_senal_AmOP_NellyQuino.md)
+* :memo:  [C1.5 Tipo de sensores de acuerdo con su uso aplicativo](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.5_Tipo_de_sensores_de_acuerdo_con_su_uso_aplicativo_NellyQuino.md)
 
