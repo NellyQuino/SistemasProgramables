@@ -1,16 +1,16 @@
 ![logp](https://user-images.githubusercontent.com/71736979/109230190-4ce8b780-7779-11eb-8c5f-933a95b8b601.PNG)
-##*Tecnologico  Nacional de México* 
-## *Instituto tecnológico de Tijuana* 
-## *Departamento de sistemas y computación*
-## *Semestre Febreo 2021 - Junio 2021*
-## *Sistemas programables*
-## *Nombre y número de control:*  
-## Nelly Jazmín Quino Hernández 17212175
-## *Docente:*
-## Jaime Leonardo Enríquez Álvarez
+Tecnologico  Nacional de México
+Instituto tecnológico de Tijuana
+Departamento de sistemas y computación
+Semestre Febreo 2021 - Junio 2021
+*Sistemas programables*
+**Nombre y número de control:**
+Nelly Jazmín Quino Hernández 17212175
+**Docente:**
+Jaime Leonardo Enríquez Álvarez
 
 
-#Contenido: 
+# Contenido: 
 ## Unidad 1
 
 * :memo: [C0.1 Integrar equipos de trabajo](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C0.1_Integrar_equipos_de_trabajo_NellyQuino.md)
@@ -19,4 +19,5 @@
 * :memo:  [C1.3 Circuito electrónico divisor de tensión](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.3_Circuito_electronico_divisor_de_tension_NellyQuino.md)
 * :memo:  [A1.2. Sensor FotoResistivo](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A1.2_NellyQuino_Parvada.md)
 * :memo:  [C1.4 Circuito electrónico para el acondicionamiento de señal con un amplificador operacional](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.4_Acondicionador_de_senal_AmOP_NellyQuino.md)
+* :memo:  [C1.5 Tipo de sensores de acuerdo con su uso aplicativo](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.4_Acondicionador_de_senal_AmOP_NellyQuino.md)
 
