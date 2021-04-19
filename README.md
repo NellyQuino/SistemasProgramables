@@ -22,5 +22,5 @@ Jaime Leonardo Enríquez Álvarez
 * :memo:  [C1.4 Circuito electrónico para el acondicionamiento de señal con un amplificador operacional](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.4_Acondicionador_de_senal_AmOP_NellyQuino.md)
 * :memo:  [C1.5 Tipo de sensores de acuerdo con su uso aplicativo](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.5_Tipo_de_sensores_de_acuerdo_con_su_uso_aplicativo_NellyQuino.md)
 * :memo:  [A.1.3 Tipo de sensores comerciales](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A1.3_Tipos_Sensores_Comerciales_Parvada.md)
-* :memo:  [A.1.4 Sensor de temperatura TMP36]()
+* :memo:  [A.1.4 Sensor de temperatura TMP36](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A1.4_Sensor_Temperatura_TMP36.md)
 
