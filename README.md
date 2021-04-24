@@ -12,7 +12,7 @@ Jaime Leonardo Enríquez Álvarez
 
 
 # Contenido: 
-## Unidad 1
+## Unidad 1 :pushpin:
 
 * :memo: [C0.1 Integrar equipos de trabajo](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C0.1_Integrar_equipos_de_trabajo_NellyQuino.md)
 * :memo: [C1.1 Cuestionario electrónica básica y sus elementos](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.1%20Cuestionario%20electr%C3%B3nica%20b%C3%A1sica%20y%20sus%20elementos_NellyJazm%C3%ADnQuinoHern%C3%A1ndez.md)
@@ -24,3 +24,7 @@ Jaime Leonardo Enríquez Álvarez
 * :memo:  [A.1.3 Tipo de sensores comerciales](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A1.3_Tipos_Sensores_Comerciales_Parvada.md)
 * :memo:  [A.1.4 Sensor de temperatura TMP36](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A1.4_Sensor_Temperatura_TMP36.md)
 
+## Unidad 2 :pushpin:
+
+* :memo:  [A.1.3 Tipo de sensores comerciales](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A1.3_Tipos_Sensores_Comerciales_Parvada.md)
+* :memo:  [A.1.4 Sensor de temperatura TMP36](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A1.4_Sensor_Temperatura_TMP36.md)
