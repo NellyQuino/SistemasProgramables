@@ -27,4 +27,5 @@ Jaime Leonardo Enríquez Álvarez
 ## Unidad 2 :pushpin:
 
 * :memo:  [C2.1 Actuadores Neumáticos, Hidráulicos y Eléctricos](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C2.1_ActuadoresNeumaticosHidraulicos.md)
-:memo: [C2.2 Actuadores Eléctricos ](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C2.2_ActuadoresElectricos.md)
+  
+* :memo: [C2.2 Actuadores Eléctricos ](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C2.2_ActuadoresElectricos.md)
