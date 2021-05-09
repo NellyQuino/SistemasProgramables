@@ -17,16 +17,23 @@ Jaime Leonardo Enríquez Álvarez
  :muscle: **Retos en clase**
  
  :memo: [C0.1 Integrar equipos de trabajo](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C0.1_Integrar_equipos_de_trabajo_NellyQuino.md)
+ 
  :memo: [C1.1 Cuestionario electrónica básica y sus elementos](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.1%20Cuestionario%20electr%C3%B3nica%20b%C3%A1sica%20y%20sus%20elementos_NellyJazm%C3%ADnQuinoHern%C3%A1ndez.md)
+ 
  :memo:  [C1.2 Circuito electrónico básico](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.2_Circuito_electronico_basico_NellyQuino.md)
+ 
  :memo:  [C1.3 Circuito electrónico divisor de tensión](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.3_Circuito_electronico_divisor_de_tension_NellyQuino.md)
+ 
  :memo:  [C1.4 Circuito electrónico para el acondicionamiento de señal con un amplificador operacional](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.4_Acondicionador_de_senal_AmOP_NellyQuino.md)
+ 
  :memo:  [C1.5 Tipo de sensores de acuerdo con su uso aplicativo](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C1.5_Tipo_de_sensores_de_acuerdo_con_su_uso_aplicativo_NellyQuino.md)
 
 :running: **Actividades de aprendizaje**
  
  :memo:  [A1.2. Sensor FotoResistivo](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A1.2_NellyQuino_Parvada.md)
+ 
  :memo:  [A.1.3 Tipo de sensores comerciales](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A1.3_Tipos_Sensores_Comerciales_Parvada.md)
+ 
  :memo:  [A.1.4 Sensor de temperatura TMP36](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A1.4_Sensor_Temperatura_TMP36.md)
 
 ## Unidad 2 :pushpin:
@@ -34,7 +41,9 @@ Jaime Leonardo Enríquez Álvarez
  :muscle: **Retos en clase**
   
   :memo:  [C2.1 Actuadores Neumáticos, Hidráulicos y Eléctricos](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C2.1_ActuadoresNeumaticosHidraulicos.md)
+ 
   :memo: [C2.2 Actuadores Eléctricos ](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C2.2_ActuadoresElectricos.md)
+  
   :memo: [C2.3 Circuito temporizador 555 ]()
 
 
