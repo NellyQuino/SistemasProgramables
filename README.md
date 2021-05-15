@@ -44,9 +44,11 @@ Jaime Leonardo Enríquez Álvarez
  
   :memo: [C2.2 Actuadores Eléctricos ](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C2.2_ActuadoresElectricos.md)
   
-  :memo: [C2.3 Circuito temporizador 555 ](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C2.3_Circuito_temporizador_555.md)
+  :memo: [C2.3 Circuito temporizador 555 ]()
 
 
 :running: **Actividades de aprendizaje**
  
   :memo: [A2.1 Actuadores Eléctricos ](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A2.1_Tipos_actuadores_Comerciales.md)
+
+  :memo: [A2.2 Circuito temporizador 555 y motor eléctrico ](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A2.2_Circuito_temporizador_actuador.md)
