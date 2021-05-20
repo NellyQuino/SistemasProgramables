@@ -52,3 +52,14 @@ Jaime Leonardo Enríquez Álvarez
   :memo: [A2.1 Actuadores Eléctricos ](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A2.1_Tipos_actuadores_Comerciales.md)
 
   :memo: [A2.2 Circuito temporizador 555 y motor eléctrico ](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A2.2_Circuito_temporizador_actuador.md)
+
+## Unidad 3 :pushpin:
+
+ :muscle: **Retos en clase**
+  
+  :memo:  [ C3.1 Arduino IDE Salida Digital](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C2.1_ActuadoresNeumaticosHidraulicos.md)
+
+  :memo:  [ C3.2 Arduino IDE Entrada Digital e impresion serial](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C2.1_ActuadoresNeumaticosHidraulicos.md)
+
+  
+
