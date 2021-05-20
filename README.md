@@ -59,7 +59,7 @@ Jaime Leonardo Enríquez Álvarez
   
   :memo:  [ C3.1 Arduino IDE Salida Digital](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C3.1_%20Arduino_IDE_Salida_Digital.md)
 
-  :memo:  [ C3.2 Arduino IDE Entrada Digital e impresion serial](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C2.1_ActuadoresNeumaticosHidraulicos.md)
+  :memo:  [ C3.2 Arduino IDE Entrada Digital e impresion serial](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C3.2_ArduinoIDE_EntradaDigitalImpresionSerial.md)
 
   
 
