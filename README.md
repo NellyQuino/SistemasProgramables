@@ -61,5 +61,7 @@ Jaime Leonardo Enríquez Álvarez
 
   :memo:  [ C3.2 Arduino IDE Entrada Digital e impresion serial](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C3.2_ArduinoIDE_EntradaDigitalImpresionSerial.md)
 
-  
+  :memo:  [ C3.3 Arduino IDE Entrada Analoga y funcion serial](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C3.2_ArduinoIDE_EntradaDigitalImpresionSerial.md)
+
+  :memo:  [C3.4 Arduino IDE Entrada Salida, sensor y funcion serial](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C3.2_ArduinoIDE_EntradaDigitalImpresionSerial.md)
 
