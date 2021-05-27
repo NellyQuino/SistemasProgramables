@@ -65,3 +65,7 @@ Jaime Leonardo Enríquez Álvarez
 
   :memo:  [C3.4 Arduino IDE Entrada Salida, sensor y funcion serial](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C3.4_ArduinoIDE_EntradaSalidaSensorFuncionSerial.md)
 
+:running: **Actividades de aprendizaje**
+
+:memo:  [A.3.1 Circuito sensor de deteccion de objetos
+](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C3.4_ArduinoIDE_EntradaSalidaSensorFuncionSerial.md)
