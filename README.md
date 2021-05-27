@@ -67,5 +67,4 @@ Jaime Leonardo Enríquez Álvarez
 
 :running: **Actividades de aprendizaje**
 
-:memo:  [A.3.1 Circuito sensor de deteccion de objetos
-](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/C3.4_ArduinoIDE_EntradaSalidaSensorFuncionSerial.md)
+:memo:  [A3.1 Circuito sensor de deteccion de objetos](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A3.1_Circuito_sensor_de_deteccion_de_objetos.md)
