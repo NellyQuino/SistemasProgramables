@@ -68,3 +68,5 @@ Jaime Leonardo Enríquez Álvarez
 :running: **Actividades de aprendizaje**
 
 :memo:  [A3.1 Circuito sensor de deteccion de objetos](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A3.1_Circuito_sensor_de_deteccion_de_objetos.md)
+
+:memo:  [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A3.1_Circuito_sensor_de_deteccion_de_objetos.md)
