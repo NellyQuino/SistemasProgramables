@@ -71,4 +71,4 @@ Jaime Leonardo Enríquez Álvarez
 
 :memo:  [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A3.2_ESP32_SensorTouch.md)
 
-:memo:  [A3.3 Circuito de medicion de temperatura a traves de un NodeMCU ESP32]()
+:memo:  [A3.3 Circuito de medicion de temperatura a traves de un NodeMCU ESP32](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A3.3_ESP32_SensorTemperatura_DHT11.md)
