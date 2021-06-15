@@ -75,4 +75,4 @@ Jaime Leonardo Enríquez Álvarez
 
 ## Unidad 4 :pushpin:
 
-:memo:  [A4.1 ESP32_L293D Control Motor DCBluetooth](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A3.3_ESP32_SensorTemperatura_DHT11.md)
+:memo:  [A4.1 ESP32_L293D Control Motor DCBluetooth](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A4.1_ESP32_L293D_ControlMotorDC_Bluetooth.md)
