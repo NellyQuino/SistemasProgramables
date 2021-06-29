@@ -85,4 +85,4 @@ Jaime Leonardo Enríquez Álvarez
 
 :running: **Actividades de aprendizaje**
 
-:memo:  [A5.1 Interface NodeRed Sensor RGBh](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A4.1_ESP32_L293D_ControlMotorDC_Bluetooth.md)
+:memo:  [A5.1 Interface NodeRed Sensor RGBh](https://github.com/NellyQuino/SistemasProgramables/blob/main/Blog/A5.1_InterfaceNodeRed_SensorRGB.md)
